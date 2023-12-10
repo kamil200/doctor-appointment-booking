@@ -1,0 +1,85 @@
+{
+  "hom": "Home",
+  "about": "About Us",
+  "products": "Products",
+  "contact": "Contact Us",
+  
+  
+    "home": {
+      "title": "We help patients live a healthy and longer life.",
+      "subtitle": "Welcome to Medicare – Your Online Healthcare Hub!",
+      "buttonText": "Request an Appointment",
+      "servicesTitle": "Providing the best medical services",
+      "servicesDescription": "Extremely dedicated to offering seamless online doctor appointments. Experience convenience and accuracy as you book appointments and verify a doctor's availability with just a few clicks.",
+      "findDoctor": {
+        "title": "Find a Doctor",
+        "description": "Easily explore and check the availability of our dedicated team of doctors at your convenience. We believe in connecting you with the right medical expert to address your concerns effectively. Your health, our responsibility."
+      },
+      "findLocation": {
+        "title": "Find a Location",
+        "description": "Your health adventure begins with finding us. Explore our welcoming locations near you. Your journey to wellness, simplified."
+      },
+      "bookAppointment": {
+        "title": "Book Appointment",
+        "description": "Choose the doctor you prefer, select a convenient time and confirm your visit in just a few clicks. Your time, your appointment, your health - effortlessly managed."
+      },
+      "ourServicesTitle": "Our medical services",
+      "ourServicesDescription": "We believe in providing exceptional healthcare tailored to your unique needs. Our team of skilled and compassionate medical professionals is dedicated to delivering personalized care with the highest standards of quality and expertise.",
+      "getVirtualTreatmentTitle": "Get Virtual treatment anytime.",
+      "getVirtualTreatmentList": [
+        "Schedule the appointment directly.",
+        "Search for your physician here, and contact their office.",
+        "View our physicians who are accepting new patients, use the online scheduling tool to select an appointment time."
+      ],
+      "learnMoreButton": "Learn More",
+      "greatDoctorsTitle": "Our Great Doctors",
+      "greatDoctorsDescription": "Meet our dedicated team of healthcare professionals. Our doctors are highly qualified and committed to providing you with the best care possible. Explore their profiles and book your next appointment with confidence.",
+      "faqTitle": "Most questions by our beloved patients",
+      "testimonialTitle": "What Our Patients say",
+      "testimonialDescription": "Our patients love the convenience of booking appointments on Medicare. The assurance of knowing their doctor is present during the appointment is a game-changer. See what they have to say about their seamless healthcare experience with us.",
+      "ourGreatDoctorsTitle": "Our Great Doctors",
+      "ourGreatDoctorsDescription":""
+    },
+    
+      "service": {
+        "cancerCare": {
+          "name": "Cancer Care",
+          "desc": "Comprehensive cancer care services with compassionate experts. We're here to support you on your journey to recovery."
+        },
+        "labourDelivery": {
+          "name": "Labour & Delivery",
+          "desc": "For the special journey of labour and delivery, we connect you with trusted hospitals and maternity care providers who are specialized in this particular field. We're here to support your overall healthcare needs, ensuring a healthy start for both you and your little one."
+        },
+        "heartVascular": {
+          "name": "Heart & Vascular",
+          "desc": "We consider problems like heart failure, cholesterol, blood pressure, and stroke. Ensuring you very easy medication."
+        },
+        "mentalHealth": {
+          "name": "Mental Health",
+          "desc": "Discover compassionate mental health support at Medicare. Our team is dedicated to enhancing your emotional well-being and providing a safe space for healing."
+        },
+        "neurology": {
+          "name": "Neurology",
+          "desc": "Our dedicated neurologists are here to address your neurological concerns, from diagnosing complex conditions to developing personalized treatment plans that prioritize your brain and nervous system health."
+        },
+        "burnTreatment": {
+          "name": "Burn Treatment",
+          "desc": "Rely on Medicare for expert burn care. Our experienced team specializes in treating burns of all degrees, using the latest techniques and technology to provide comprehensive care and support for your recovery."
+        }
+      },
+    
+    
+  
+  "experience": {
+    "title": "30+",
+    "description": "Years of Experience"
+  },
+  "locations": {
+    "title": "15+",
+    "description": "Clinincal Locations"
+  },
+  "satisfaction": {
+    "title": "100%",
+    "description": "patient Satisfaction"
+  }
+}
